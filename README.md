@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=200&section=header&text=Michael%20Gbanya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=100&section=header&text=Michael%20Gbanya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I’m Michael  
 
@@ -48,30 +48,6 @@ Product Ownership · Stakeholder Engagement · Mentoring · Team Management
 
 - 🎨 **Front-end Engineer @ Codehance UK (2021–2022)**  
   Delivered 15+ responsive, modern websites using React & GraphQL, cutting project delivery time by 20%.  
-
 ---
-
-### 🎓 Education  
-- 🎓 MBA – University of Perpetual Help System DALTA (2022)  
-- 🎓 B.Sc. Marine Transportation – UPHSD (2017)  
-- 🎓 Software Development Training – Codehance UK (2021)  
-
----
-
-### 📊 GitHub at a Glance  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbanyamichael&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbanyamichael&layout=compact&theme=radical)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=gbanyamichael&theme=onedark&no-frame=true&no-bg=true&margin-w=15)  
-
----
-
-### 🔗 Let’s Connect  
-🌐 [Portfolio](https://yourwebsite.com)  
-💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-📧 [Email Me](mailto:your.email@example.com)  
-
----
-
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
