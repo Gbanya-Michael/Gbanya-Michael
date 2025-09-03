@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=200&section=header&text=Michael%20Gbanya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-# 👋 Hi, I’m Michael  
+# Hi, I’m Michael  
 
 📍 Melbourne, VIC | Software Engineer | Builder of AI Agents & Automation Workflows  
 
